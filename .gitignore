@@ -1,0 +1,22 @@
+# Godot 4+
+.godot/
+
+# Godot editor metadata
+.import/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Build/export output
+build/
+dist/
+exports/
+
+# Temporary files
+*.tmp
+*.temp
